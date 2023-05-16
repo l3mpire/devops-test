@@ -16,7 +16,7 @@ For this test, we propose you to show your devops skills:
   - deploy suggested './nodejs-app' (or any nodejs app your choice) to a test vm/container
   - do basic post/deploy functional test
 
-You can fork this repository to store whatever configuration files you need, for review purpose.
+Provide your solution as a PR.
 
 --
 lempire devops team.
